@@ -27,7 +27,7 @@ CondominAI é uma ferramenta em Python para análise de faturas em PDF de condom
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/condominai.git
+   git clone https://github.com/VictorsCodes/condominai.git
    ```
 
 2. **Configure a API Key**:
@@ -79,4 +79,4 @@ MIT License. Veja LICENSE para detalhes.
 
 ## Contato
 
-Dúvidas? Abra uma issue ou entre em contato via seu-email@exemplo.com.
+Dúvidas? Abra uma issue.

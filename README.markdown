@@ -2,7 +2,7 @@
 
 ![CondominAI Logo](https://github.com/VictorsCodes/CondominAI/blob/main/Logo.png?raw=true)
 
-CondominAI é uma ferramenta em Python para análise de faturas em PDF de condomínio, energia, água, cartão de crédito, telefonia, etc. Hospedada no Google Colab. Utiliza a API do Google Gemini para extrair e comparar dados financeiros, oferecendo resumos e respostas a perguntas sobre as faturas.
+CondominAI é uma ferramenta em Python para análise de faturas em PDF de condomínio, energia, água, cartão de crédito, telefonia, etc, hospedada no Google Colab. Utiliza a API do Google Gemini para extrair e comparar dados financeiros, oferecendo resumos e respostas a perguntas sobre as faturas.
 
 ## Funcionalidades
 

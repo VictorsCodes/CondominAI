@@ -42,6 +42,8 @@ CondominAI é uma ferramenta em Python para análise de faturas em PDF de condom
 
    - Coloque PDFs das faturas em `/content/drive/MyDrive/CondominAI/Faturas de Condomínio`.
 
+     ![CondominAI Logo](https://github.com/VictorsCodes/CondominAI/blob/main/Upload_Fatura.png?raw=true)
+
 ## Uso
 
 1. Abra o notebook `condominai.ipynb` no Google Colab.
